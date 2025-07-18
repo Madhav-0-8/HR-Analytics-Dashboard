@@ -20,4 +20,5 @@
 - Gained employee trust.
 
 5.Screenshot
- [ Dashboard Preview]
+
+ [ Dashboard Preview](https://github.com/Madhav-0-8/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20HR%20Dashboard.png)
